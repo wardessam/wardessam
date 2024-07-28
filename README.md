@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wardessam&label=Profile%20views&color=0e75b6&style=flat" alt="wardessam" /> </p>
 
-- 🔭 I’m currently working on [Memories social media application](https://github.com/wardessam/Memories-Social-Media-App)
+- 🔭 I’m currently working on Clone OF DRAW.IO Project
 
 - 🌱 I’m currently learning **ASP.Net, Clean Code, Design Patterns and Algorithms**
 
 - 📫 How to reach me **rose.essam38@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1up__J5EsZaq3hv6m-yG9GOTNN655FPT9/view?usp=sharing](https://drive.google.com/file/d/1up__J5EsZaq3hv6m-yG9GOTNN655FPT9/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1baz4W4ONmcII6SStF1vsO92k88cgiVwO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

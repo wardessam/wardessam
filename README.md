@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASP.Net, Clean Code, Design Patterns and Algorithms**
 
-- 📫 How to reach me **rose.essam38@gmail.com**
+- 📫 How to reach me [EMAIL](**rose.essam38@gmail.com**)
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1baz4W4ONmcII6SStF1vsO92k88cgiVwO/view?usp=drive_link)
 
